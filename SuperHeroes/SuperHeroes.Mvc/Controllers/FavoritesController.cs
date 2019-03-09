@@ -12,7 +12,7 @@ namespace SuperHeroes.Mvc.Controllers
     {
 
         // GET: Favorites/Create
-        public ActionResult Create()
+        public ActionResult Index()
         {
             Favorite favoriteHero = new Favorite();
 
